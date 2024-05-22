@@ -1,7 +1,7 @@
 
 ## Hola, soy Clakatakito 👋
 
-Soy un estudiante de CFGM interesado en la informatica y aprender cosas relacionadas con ellas, me gusta en tema del fronted y los videojugegos.
+*Soy un estudiante de CFGM interesado en la informatica y aprender cosas relacionadas con ellas, me gusta en tema del fronted y los videojugegos.*
 
 Tengo conocimientos en `HTML5` `CSS` `JavaScript` `Python`
 
@@ -9,8 +9,17 @@ Tengo conocimientos en `HTML5` `CSS` `JavaScript` `Python`
 
 
 
+![Texto alternativo]
+
+(https://www.ejemplo.com/imagen.jpg)
 
 
+![JavaScript](baixa.png)
+
+
+
+
+<img src="baixa" alt="JavaScript" width="100"/>
 
 > hola
 
