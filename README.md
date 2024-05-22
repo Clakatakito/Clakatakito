@@ -8,18 +8,7 @@ Tengo conocimientos en `HTML5` `CSS` `JavaScript` `Python`
 [Mi GitHub](https://github.com/Clakatakito/Practicas)
 
 
-
-![Texto alternativo]
-
-(https://www.ejemplo.com/imagen.jpg)
-
-
-![JavaScript](baixa.png)
-
-
-
-
-<img src="JavaScript.png" alt="JavaScript" tittle="JavaScript" width="25"/><img src="HTML5.png" alt="JavaScript" tittle="JavaScript" width="48"/>
+<img src="JavaScript.png" alt="JavaScript" tittle="JavaScript" width="25"/><img src="HTML5.png" alt="JavaScript" tittle="JavaScript" width="50"/><img src="python.png" alt="Python" tittle="Python" width="25"/><img src="CSS.png" alt="CSS" tittle="CSS" width="25"/>
 
 > hola
 
