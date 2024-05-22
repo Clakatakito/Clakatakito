@@ -19,7 +19,7 @@ Tengo conocimientos en `HTML5` `CSS` `JavaScript` `Python`
 
 
 
-<img src="baixa" alt="JavaScript" width="100"/>
+<img src="JavaScript.png" alt="JavaScript" tittle="JavaScript" width="25"/><img src="HTML5.png" alt="JavaScript" tittle="JavaScript" width="48"/>
 
 > hola
 
