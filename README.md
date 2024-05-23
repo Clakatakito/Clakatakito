@@ -17,7 +17,6 @@
 ![wordPressL](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 ![LDAP](https://img.shields.io/badge/-LDAP-333333?style=flat&logo=ldap)
 ![Squid](https://img.shields.io/badge/-Squid-333333?style=flat&logo=squid)
-![SSH](https://img.shields.io/badge/-SSH-333333?style=flat&logo=ssh)
 
 
 <h1>Aprendiendo en: 🤔</h1><br>
