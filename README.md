@@ -24,7 +24,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
 
-<h1>Proximo paso: ⚡</h1>
+<h1>Proximos pasos: ⚡</h1>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
