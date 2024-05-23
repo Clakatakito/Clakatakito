@@ -18,7 +18,6 @@
 ![LDAP](https://img.shields.io/badge/-LDAP-333333?style=flat&logo=ldap)
 ![Squid](https://img.shields.io/badge/-Squid-333333?style=flat&logo=squid)
 
-
 <h1>Aprendiendo: 🤔</h1><br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
