@@ -3,7 +3,7 @@
 
 *Soy un estudiante de CFGM interesado en la informatica y aprender cosas relacionadas con ellas, me gusta en tema del fronted y los videojugegos.*
 
-Tengo conocimientos en `HTML5` `CSS` `JavaScript` `Python`
+Tengo conocimientos en: `HTML5` `CSS` `JavaScript` `Python`
 
 [Mi GitHub](https://github.com/Clakatakito/Practicas)
 
