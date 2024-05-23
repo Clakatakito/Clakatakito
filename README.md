@@ -1,45 +1,30 @@
 
-## Hola, soy Clakatakito 👋
+## Hola, soy Clakatakito 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-*Soy un estudiante de CFGM interesado en la informatica y aprender cosas relacionadas con ellas, me gusta en tema del fronted y los videojugegos.*
+*Soy un estudiante de CFGM interesado en la informatica y aprender cosas relacionadas con ellas, me gusta el tema del fronted y los videojugegos.*
 
-Tengo conocimientos en: `HTML5` `CSS` `JavaScript` `Python`
+[Mi GitHub](https://github.com/Clakatakito/Practicas)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-[Mi GitHub](https://github.com/Clakatakito/Practicas)
+<h1>Conocimientos en: 🔭</h1><br>
 
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-<img src="JavaScript.png" alt="JavaScript" tittle="JavaScript" width="25"/><img src="HTML5.png" alt="JavaScript" tittle="JavaScript" width="50"/><img src="python.png" alt="Python" tittle="Python" width="25"/><img src="CSS.png" alt="CSS" tittle="CSS" width="25"/>
+<h1>Aprendiendo en: 🤔</h1><br>
 
-> hola
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-| Encabezado 1 | Encabezado 2 |
-| ------------ | ------------ |
-| Celda 1      | Celda 2      |
-| Celda 3      | Celda 4      |
+<br><br>
 
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Clakatakito&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
----
+ <p align="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 
-***
-
-___
-
- 🔭 I’m currently working on ...
- 
- 🌱 I’m currently learning ...
- 
- 👯 I’m looking to collaborate on ...
- 
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
- 😄 Pronouns: ...
- ⚡ Fun fact: ...
--->
-
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-<div style="text-align: center;">
-  <img style="text-align: center;" src="horizon-forbbiden-west.gif" width="200"/>
-</div>
-
-
+</p>
