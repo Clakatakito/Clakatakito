@@ -12,9 +12,6 @@ Tengo conocimientos en: `HTML5` `CSS` `JavaScript` `Python`
 
 > hola
 
-Este es un `código en línea`
-
-
 | Encabezado 1 | Encabezado 2 |
 | ------------ | ------------ |
 | Celda 1      | Celda 2      |
