@@ -19,7 +19,7 @@
 ![Squid](https://img.shields.io/badge/-Squid-333333?style=flat&logo=squid)
 
 
-<h1>Aprendiendo en: 🤔</h1><br>
+<h1>Aprendiendo: 🤔</h1><br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
