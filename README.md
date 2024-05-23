@@ -2,8 +2,7 @@
 ## Hola, soy Clakatakito 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 *Soy un estudiante de CFGM interesado en la informatica y aprender cosas relacionadas con ellas, me gusta el tema del fronted y los videojugegos.*
-
-[Mi GitHub](https://github.com/Clakatakito/Practicas)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <h1>Conocimientos en: 🔭</h1><br>
 
@@ -37,14 +36,14 @@
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Clakatakito&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clakatakito&layout=compact" />
-
+<br><br>
 
  <p align="center">
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </p>
 <br><br><br><br><br>
 <p align="center">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/063/359/353/original/bryan-heemskerk-horizonforbiddenwestanimatedfinal.gif?1685367899" width="200"/>
+  <img src="horizon-forbbiden-west.gif" width="1600"/>
 </p>
 
 
