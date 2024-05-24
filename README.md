@@ -1,7 +1,7 @@
 
 ## Hola, soy Claka 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-*Soy un estudiante de CFGM de segundo año, interesado en la informatica y aprender cosas relacionadas con ello, me gusta el tema del fronted y los videojugegos.*
+*Soy un estudiante de CFGM de segundo año, interesado en la informática y aprender cosas relacionadas con el Fron-end y los videojugegos.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <h1>Conocimientos en: 🔭</h1><br>
