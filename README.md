@@ -1,5 +1,5 @@
 
-## Hola, soy Clakatakito 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hola, soy Claka 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 *Soy un estudiante de CFGM de segundo año, interesado en la informatica y aprender cosas relacionadas con ello, me gusta el tema del fronted y los videojugegos.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
