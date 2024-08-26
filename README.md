@@ -23,6 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
+![DuckDNS](https://img.shields.io/badge/-DuckDNS-333333?style=flat&logo=duckdns)
+
 
 <h1>Proximos pasos: ⚡</h1>
 
