@@ -13,6 +13,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Wireshark](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![wordPressL](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 ![LDAP](https://img.shields.io/badge/-LDAP-333333?style=flat&logo=ldap)
@@ -21,9 +22,9 @@
 <h1>Aprendiendo: 🤔</h1><br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-![DuckDNS](https://img.shields.io/badge/-DuckDNS-333333?style=flat&logo=duckdns)
 
 
 <h1>Proximos pasos: ⚡</h1>
