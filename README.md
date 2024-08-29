@@ -23,10 +23,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
-
-
 <h1>Proximos pasos: ⚡</h1>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
