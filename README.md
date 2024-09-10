@@ -23,6 +23,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
+![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
+
 <h1>Proximos pasos: ⚡</h1>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
