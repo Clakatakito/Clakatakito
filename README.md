@@ -15,7 +15,7 @@
 ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![wordPressL](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+![WordPressL](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 ![LDAP](https://img.shields.io/badge/-LDAP-333333?style=flat&logo=ldap)
 ![Squid](https://img.shields.io/badge/-Squid-333333?style=flat&logo=squid)
 
@@ -23,7 +23,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
-![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <h1>Proximos pasos: ⚡</h1>
 
