@@ -22,9 +22,7 @@
 <h1>Aprendiendo: 🤔</h1><br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
 ![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
-
 ![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
 
 <h1>Proximos pasos: ⚡</h1>
