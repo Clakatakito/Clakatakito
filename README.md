@@ -14,6 +14,7 @@
 ![Wireshark](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23333333?style=flat&logo=visualstudiocode&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![WordPressL](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 ![LDAP](https://img.shields.io/badge/-LDAP-333333?style=flat&logo=ldap)
