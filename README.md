@@ -25,6 +25,8 @@
 
 ![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
 
+![Figma](https://img.shields.io/badge/-figma-333333?style=flat&logo=figma)
+
 <h1>Proximos pasos: ⚡</h1>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
