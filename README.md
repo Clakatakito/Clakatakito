@@ -23,12 +23,12 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <h1>Proximos pasos: ⚡</h1>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
 <br><br>
 
