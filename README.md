@@ -32,7 +32,7 @@
 
 <br><br>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Clakatakito&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Clakatakito&show_icons=true&title_color=f69673&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clakatakito&layout=compact" />
 <br><br>
@@ -45,4 +45,9 @@
   <img src="horizon-forbbiden-west.gif" width="1600"/>
 </p>
 
+
+
+
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
