@@ -46,11 +46,9 @@
   <img src="horizon-forbbiden-west.gif" width="1600"/>
 </p>
 
-<img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<p align="center">
+ <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png"> 
+</p>
 
 
-
-
-
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
