@@ -18,6 +18,8 @@
 ![WordPressL](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 ![LDAP](https://img.shields.io/badge/-LDAP-333333?style=flat&logo=ldap)
 ![Squid](https://img.shields.io/badge/-Squid-333333?style=flat&logo=squid)
+![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)
+
 
 <h1>Aprendiendo: 🤔</h1><br>
 
