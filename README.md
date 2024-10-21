@@ -31,6 +31,7 @@
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 <br><br>
 
