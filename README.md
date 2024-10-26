@@ -39,7 +39,7 @@
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=Clakatakito&show_icons=true&title_color=f69673&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clakatakito&layout=compact" />
-<br><br>
+<br><br><br><br>
 
  <p align="center">
   <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
