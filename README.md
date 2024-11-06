@@ -25,6 +25,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
+![UX](https://img.shields.io/badge/-UX-333333?style=flat&logo=ux)
 
 <h1>Proximos pasos: ⚡</h1>
 
@@ -33,6 +34,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+![FigJam](https://img.shields.io/badge/-FigJam-333333?style=flat&logo=figjam)
 
 <br><br>
 
