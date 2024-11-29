@@ -27,6 +27,8 @@
 ![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
 ![UX](https://img.shields.io/badge/-UX-333333?style=flat&logo=ux)
 
+![JavaScript](https://img.shields.io/badge/-Phpmyadmin-333333?style=flat&logo=phpmyadmin)
+
 <h1>Proximos pasos: ⚡</h1>
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
