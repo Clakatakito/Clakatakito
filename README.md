@@ -26,7 +26,6 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![UX](https://img.shields.io/badge/-UX-333333?style=flat&logo=ux)
-
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
 
 <h1>Proximos pasos: ⚡</h1>
