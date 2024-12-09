@@ -19,12 +19,12 @@
 ![LDAP](https://img.shields.io/badge/-LDAP-333333?style=flat&logo=ldap)
 ![Squid](https://img.shields.io/badge/-Squid-333333?style=flat&logo=squid)
 ![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)
+![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
 
 
 <h1>Aprendiendo: 🤔</h1><br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
 ![UX](https://img.shields.io/badge/-UX-333333?style=flat&logo=ux)
 
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
