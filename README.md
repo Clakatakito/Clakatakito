@@ -20,6 +20,8 @@
 ![Squid](https://img.shields.io/badge/-Squid-333333?style=flat&logo=squid)
 ![Ollama](https://img.shields.io/badge/-Ollama-333333?style=flat&logo=ollama)
 ![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
+![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
 
 
 <h1>Aprendiendo: 🤔</h1><br>
