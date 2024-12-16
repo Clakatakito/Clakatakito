@@ -26,7 +26,8 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![UX](https://img.shields.io/badge/-UX-333333?style=flat&logo=ux)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 
 <h1>Proximos pasos: ⚡</h1>
 
@@ -36,6 +37,7 @@
 ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![FigJam](https://img.shields.io/badge/-FigJam-333333?style=flat&logo=figjam)
+![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
 
 <br><br>
 
