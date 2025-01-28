@@ -14,6 +14,7 @@
 ![Wireshark](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23333333?style=flat&logo=visualstudiocode&logoColor=white)
 ![WordPressL](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 ![LDAP](https://img.shields.io/badge/-LDAP-333333?style=flat&logo=ldap)
@@ -28,7 +29,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![UX](https://img.shields.io/badge/-UX-333333?style=flat&logo=ux)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 
 
 <h1>Proximos pasos: ⚡</h1>
