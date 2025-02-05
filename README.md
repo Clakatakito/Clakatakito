@@ -4,7 +4,7 @@
 *Soy estudiante de segundo año del CFGM en Sistemas Microinformáticos y Redes (SMX), apasionado por la informática y enfocado en aprender y desarrollarme en áreas relacionadas con DevOps.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<h1>Conocimientos en: 🔭</h1><br>
+<h1>Conocimientos enpanadas: 🔭</h1><br>
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
