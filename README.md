@@ -14,6 +14,7 @@
 ![Wireshark](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![Apache](https://img.shields.io/badge/-Apache-333333?style=flat&logo=apache)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23333333?style=flat&logo=visualstudiocode&logoColor=white)
 ![WordPressL](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
@@ -38,7 +39,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![Typescript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![FigJam](https://img.shields.io/badge/-FigJam-333333?style=flat&logo=figjam)
 ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
 
