@@ -30,7 +30,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![UX](https://img.shields.io/badge/-UX-333333?style=flat&logo=ux)
-![AWS](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=aws)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 
 
 <h1>Proximos pasos: ⚡</h1>
