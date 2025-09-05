@@ -1,7 +1,7 @@
 
 ## Hola, soy Claka 👋<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-*Soy estudiante de segundo año del CFGM en Sistemas Microinformáticos y Redes (SMX), apasionado por la informática y enfocado en aprender y desarrollarme en áreas relacionadas con DevOps.*
+*Soy estudiante de primer año del CFGS en Administración de Sistemas Informáticos en Red  (ASIR), apasionado por la informática y enfocado en aprender y desarrollarme en áreas relacionadas con DevOps.*
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <h1>Conocimientos en: 🔭</h1><br>
