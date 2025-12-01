@@ -17,6 +17,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23333333?style=flat&logo=visualstudiocode&logoColor=white)
+![Snort](https://img.shields.io/badge/-Snort-333333?style=flat&logo=snort)
 ![WordPressL](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
 ![LDAP](https://img.shields.io/badge/-LDAP-333333?style=flat&logo=ldap)
 ![Squid](https://img.shields.io/badge/-Squid-333333?style=flat&logo=squid)
