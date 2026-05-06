@@ -25,6 +25,7 @@
 ![Bubble](https://img.shields.io/badge/-Bubble-333333?style=flat&logo=bubble)
 ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion)
 ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
+![Zabbix](https://img.shields.io/badge/-Zabbix-333333?style=flat&logo=zabbix)
 
 
 <h1>Aprendiendo: 🤔</h1><br>
